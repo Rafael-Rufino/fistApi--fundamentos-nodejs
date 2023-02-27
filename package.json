@@ -1,0 +1,11 @@
+{
+  "name": "fundamentos_nodejs",
+  "version": "1.0.0",
+  "description": "api de fundamentos",
+  "main": "src/server.js",
+  "license": "MIT",
+
+  "scripts": {
+    "dev": "node src/server.js"
+  }
+}
